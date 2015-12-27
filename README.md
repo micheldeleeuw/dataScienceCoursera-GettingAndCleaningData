@@ -10,6 +10,7 @@ To run the instruction list in run_analysis.R the following must be true:
 
 ### Manual and description
 With the instruction list run_analysis.R the raw data is transformed to a tidy data set uci.har.tidy.
+The script performs the following:
 - The activity data is loaded.
 - The features data is loaded and made suitable as column names.
 - The subject part of the data is loaded.
