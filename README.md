@@ -20,3 +20,5 @@ The script performs the following:
 
 The result is the tidy data set uci.har.tidy ansd also the data set is exported to file system as "uci.har.tidy.txt"
 
+### Code book
+The code book for the tidy data set can  be found here: https://github.com/micheldeleeuw/dataScienceCoursera-GettingAndCleaningData/blob/master/CodeBook.md
