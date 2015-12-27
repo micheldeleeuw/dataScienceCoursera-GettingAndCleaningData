@@ -1,7 +1,7 @@
-# Introduction
+### Introduction
 This is the code book for the data set created for the Coursera specialisation Data Science/Getting and Cleaning Data which is based on the Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
-#### Source and acknowledgment
+### Source and acknowledgment
 - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 - Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 - 1 - Smartlab - Non-Linear Complex Systems Laboratory
