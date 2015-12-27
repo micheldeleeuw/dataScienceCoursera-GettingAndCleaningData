@@ -46,7 +46,7 @@ x.train <- data.frame(subjects.train, activity.train, x.train)
 
 ## Merge the test and train sets but only leave columns subject, activityDescription and measures for mean and std
 uci.har <- rbind.fill(x.test, x.train) %>%
-           select (subject, activityDescription, contains("mean"), contains("std"))
+           select (subject, activityDescription, contains("mean.."), contains("std.."))
 
 ## Summarise (mean) the data for each combination of subject and activity
 uci.har.tidy <- group_by(uci.har,subject,activityDescription) %>%
