@@ -64,21 +64,21 @@ Frequency domain body gyroscope mean along X, Y and Z.
 ##### fBodyGyro.meanFreq...X/Y/Z:
 Frequency domain body gyroscope mean frequency along X, Y and Z.
 ##### fBodyAccMag.mean..:
-Frequency domain body accelaration magnitude mean along X, Y and Z. 
+Frequency domain body accelaration magnitude mean. 
 ##### fBodyAccMag.meanFreq..:
-Frequency domain body acceleration magnitude mean frequency along X, Y and Z.
+Frequency domain body acceleration magnitude mean frequency.
 ##### fBodyBodyAccJerkMag.mean..:
-Frequency domain body acceleration jerk magnitude mean along X, Y and Z. 
+Frequency domain body acceleration jerk magnitude mean. 
 ##### fBodyBodyAccJerkMag.meanFreq..:
-Fequency domain body acceleration jerk magnitude mean frequency along X, Y and Z. 
+Fequency domain body acceleration jerk magnitude mean frequency. 
 ##### fBodyBodyGyroMag.mean..:
-Frequency body gyroscope magnitude mean along X, Y and Z. 
+Frequency body gyroscope magnitude mean. 
 ##### fBodyBodyGyroMag.meanFreq..:
-Frequency domain body gyroscope maginitude mean frequency along X, Y and Z. 
+Frequency domain body gyroscope maginitude mean frequency. 
 ##### fBodyBodyGyroJerkMag.mean..:
-Frequence domain body gyroscope jerk magnitude mean along X, Y and Z. 
+Frequence domain body gyroscope jerk magnitude mean. 
 ##### fBodyBodyGyroJerkMag.meanFreq..:
-Frequence domain body gyroscope jerk magnitude mean frequency along X, Y and Z. 
+Frequence domain body gyroscope jerk magnitude mean frequency. 
 ##### tBodyAcc.std...X/Y/Z:
 Time domain body acceleration standard deviation along X, Y and Z.
 ##### tGravityAcc.std...X/Y/Z:
