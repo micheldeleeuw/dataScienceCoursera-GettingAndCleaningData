@@ -79,50 +79,37 @@ Frequency domain body gyroscope maginitude mean frequency along X, Y and Z.
 Frequence domain body gyroscope jerk magnitude mean along X, Y and Z. 
 ##### fBodyBodyGyroJerkMag.meanFreq..:
 Frequence domain body gyroscope jerk magnitude mean frequency along X, Y and Z. 
-##### angle.tBodyAccMean.gravity.:
- 
-##### angle.tBodyAccJerkMean..gravityMean.:
- 
-##### angle.tBodyGyroMean.gravityMean.:
- 
-##### angle.tBodyGyroJerkMean.gravityMean.:
- 
-##### angle.X.gravityMean.:
- 
-##### angle.Y.gravityMean.:
- 
-##### angle.Z.gravityMean.:
- 
 ##### tBodyAcc.std...X/Y/Z:
- 
+Time domain body acceleration standard deviation along X, Y and Z.
 ##### tGravityAcc.std...X/Y/Z:
- 
+ standard deviation along X, Y and Z. 
 ##### tBodyAccJerk.std...X/Y/Z:
- 
+ standard deviation along X, Y and Z. 
 ##### tBodyGyro.std...X/Y/Z:
- 
+ standard deviation along X, Y and Z.
 ##### tBodyGyroJerk.std...X/Y/Z:
- 
+ standard deviation along X, Y and Z.
 ##### tBodyAccMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### tGravityAccMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### tBodyAccJerkMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### tBodyGyroMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### tBodyGyroJerkMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### fBodyAcc.std...X/Y/Z:
- 
+ standard deviation along X, Y and Z.
 ##### fBodyAccJerk.std...X/Y/Z:
- 
+ standard deviation along X, Y and Z.
 ##### fBodyGyro.std...X/Y/Z:
- 
+ standard deviation along X, Y and Z.
 ##### fBodyAccMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### fBodyBodyAccJerkMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### fBodyBodyGyroMag.std..:
- 
+ standard deviation along X, Y and Z.
 ##### fBodyBodyGyroJerkMag.std..
+standard deviation along X, Y and Z.
