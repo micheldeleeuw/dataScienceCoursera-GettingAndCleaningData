@@ -1,5 +1,5 @@
 # Introduction
-This is the code book voor de data set created for the Coursera specialisation Data Science/Getting and Cleaning Data which is based on the Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+This is the code book for the data set created for the Coursera specialisation Data Science/Getting and Cleaning Data which is based on the Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 #### Source and acknowledgment
 - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
