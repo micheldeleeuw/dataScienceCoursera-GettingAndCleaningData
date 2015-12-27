@@ -82,34 +82,34 @@ Frequence domain body gyroscope jerk magnitude mean frequency along X, Y and Z.
 ##### tBodyAcc.std...X/Y/Z:
 Time domain body acceleration standard deviation along X, Y and Z.
 ##### tGravityAcc.std...X/Y/Z:
- standard deviation along X, Y and Z. 
+Time domain gravity acceleration standard deviation along X, Y and Z. 
 ##### tBodyAccJerk.std...X/Y/Z:
- standard deviation along X, Y and Z. 
+Time domain body acceleration jerk standard deviation along X, Y and Z. 
 ##### tBodyGyro.std...X/Y/Z:
- standard deviation along X, Y and Z.
+Time domain body gyroscope standard deviation along X, Y and Z.
 ##### tBodyGyroJerk.std...X/Y/Z:
- standard deviation along X, Y and Z.
+Time domain body gyroscope jerk standard deviation along X, Y and Z.
 ##### tBodyAccMag.std..:
- standard deviation along X, Y and Z.
+Time domain body acceleration magnitude standard deviation.
 ##### tGravityAccMag.std..:
- standard deviation along X, Y and Z.
+Time domain gravity acceleration magnitude standard deviation.
 ##### tBodyAccJerkMag.std..:
- standard deviation along X, Y and Z.
+Time domain body acceleration jerk magnitude standard deviation.
 ##### tBodyGyroMag.std..:
- standard deviation along X, Y and Z.
+Time domain body gyroscope magnitude standard deviation.
 ##### tBodyGyroJerkMag.std..:
- standard deviation along X, Y and Z.
+Time domain body gyroscope jerk maginiotude standard deviation.
 ##### fBodyAcc.std...X/Y/Z:
- standard deviation along X, Y and Z.
+Frequency domain body acceleration standard deviation along X, Y and Z.
 ##### fBodyAccJerk.std...X/Y/Z:
- standard deviation along X, Y and Z.
+Frequency domain body acceleration jerk standard deviation along X, Y and Z.
 ##### fBodyGyro.std...X/Y/Z:
- standard deviation along X, Y and Z.
+Frequency domain body gyroscope standard deviation along X, Y and Z.
 ##### fBodyAccMag.std..:
- standard deviation along X, Y and Z.
+Frequency domain body acceleration standard deviation along.
 ##### fBodyBodyAccJerkMag.std..:
- standard deviation along X, Y and Z.
+Frequency domain body acceleration jerk magnitude standard deviation.
 ##### fBodyBodyGyroMag.std..:
- standard deviation along X, Y and Z.
+Frequency domain body gyroscope magnitude standard deviation.
 ##### fBodyBodyGyroJerkMag.std..
-standard deviation along X, Y and Z.
+Frequency domain body gyroscope jerk magnitude standard deviation.
