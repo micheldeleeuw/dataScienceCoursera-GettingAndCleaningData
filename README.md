@@ -7,6 +7,3 @@ To run the instruction list in run_analysis.R the following must be true:
 - The original data set must be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 - It must be unzipped in the working directory of R.
 - The packages plyr and dplyr must be installed.
-- 
-
-
